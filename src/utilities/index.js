@@ -5,7 +5,7 @@ const categories = {
 	Men: [
 		{
 			name: "Shirt",
-			path: "/category/shirt",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/files/rd3dwws.jpg?v=1723798394&width=360",
 			image2:
@@ -14,7 +14,7 @@ const categories = {
 		},
 		{
 			name: "T-Shirt",
-			path: "/category/tshirt",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/files/Untitled_Artwork888.jpg?v=1722699893&width=360",
 			image2:
@@ -23,7 +23,7 @@ const categories = {
 		},
 		{
 			name: "Pants",
-			path: "/category/pant",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/files/blackpant.jpg?v=1721033042&width=360",
 			image2:
@@ -32,7 +32,7 @@ const categories = {
 		},
 		{
 			name: "Shorts",
-			path: "/category/short",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/files/shorts.jpg?v=1717575289&width=360",
 			image2:
@@ -41,7 +41,7 @@ const categories = {
 		},
 		{
 			name: "Joggers",
-			path: "/category/jogger",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/files/DSC047966.jpg?v=1682854190&width=360",
 			image2:
@@ -50,7 +50,7 @@ const categories = {
 		},
 		{
 			name: "Sweaters",
-			path: "/category/sweater",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/products/favour-green-sweatshirt-244545.jpg?v=1672130320&width=360",
 			image2:
@@ -59,7 +59,7 @@ const categories = {
 		},
 		{
 			name: "SweatShirts",
-			path: "/category/sweatshirts",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/products/image.heic?v=1670479696&width=360",
 			image2:
@@ -68,7 +68,7 @@ const categories = {
 		},
 		{
 			name: "Hoodies",
-			path: "/category/jacket",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/products/basic-red-hoodie-851668.jpg?v=1671744051&width=360",
 			image2:
@@ -79,7 +79,7 @@ const categories = {
 	Women: [
 		{
 			name: "Shirt",
-			path: "/category/shirt",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/files/Untitled_Artwork888.jpg?v=1722699893&width=360",
 			image2:
@@ -89,7 +89,7 @@ const categories = {
 		},
 		{
 			name: "T-Shirt",
-			path: "/category/tshirt",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/files/rd3dwws.jpg?v=1723798394&width=360",
 			image2:
@@ -98,7 +98,7 @@ const categories = {
 		},
 		{
 			name: "Pants",
-			path: "/category/pant",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/files/blackpant.jpg?v=1721033042&width=360",
 			image2:
@@ -107,7 +107,7 @@ const categories = {
 		},
 		{
 			name: "Shorts",
-			path: "/category/short",
+			path: "filter",
 			image1:
 				"https://bluorng.com/cdn/shop/files/shorts.jpg?v=1717575289&width=360",
 			image2:
@@ -116,7 +116,7 @@ const categories = {
 		},
 		{
 			name: "Joggers",
-			path: "/category/jogger",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/files/DSC047966.jpg?v=1682854190&width=360",
 			image2:
@@ -125,7 +125,7 @@ const categories = {
 		},
 		{
 			name: "Sweaters",
-			path: "/category/sweater",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/products/favour-green-sweatshirt-244545.jpg?v=1672130320&width=360",
 			image2:
@@ -134,7 +134,7 @@ const categories = {
 		},
 		{
 			name: "SweatShirts",
-			path: "/category/sweatshirts",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/products/image.heic?v=1670479696&width=360",
 			image2:
@@ -143,7 +143,7 @@ const categories = {
 		},
 		{
 			name: "Hoodies",
-			path: "/category/jacket",
+			path: "/filter",
 			image1:
 				"https://bluorng.com/cdn/shop/products/basic-red-hoodie-851668.jpg?v=1671744051&width=360",
 			image2:
